@@ -1,0 +1,3 @@
+Example string
+File created in order to being copied
+To second file by c++ program
